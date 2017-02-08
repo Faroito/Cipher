@@ -8,7 +8,6 @@ from SocketServer import ThreadingMixIn
 import struct
 
 TCP_IP = raw_input("Your IP ? : ")
-
 TCP_PORT_SEND = 60005
 BUFFER_SIZE = 1024
 

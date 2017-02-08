@@ -150,3 +150,4 @@ while True :
     except socket.error :
         print "/!\\ No server connection /!\\ (or all key done)"
         break
+

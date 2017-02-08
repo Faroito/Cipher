@@ -375,3 +375,4 @@ elif len(sys.argv) == 4:
             print_matrix(square_size, size(key, square_size), matrix_key, 1)
             print "Decrypted message :"
             decrypting(size(msg, square_size), square_size, matrix_key, matrix_msg)
+
