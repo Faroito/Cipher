@@ -2,9 +2,9 @@
 
 ## Description
 
-I did this project in the Mathematics module. The goal was to crypt a message with a key by making two distinct matrix with the ASCII charactere and multiply the matrix. Then we had to decrypt the matrix with the inverse matrix of the key.
+I did this project in the Mathematics module. The goal was to crypt a message with a key by making two distinct matrix with the ASCII character and multiply the matrix. Then we had to decrypt the matrix with the inverse matrix of the key.
 
-As the goal was to manipulate matrix, we couldn't use matrix's library as numpy, it would has be to easy !
+As the goal was to manipulate matrix, we couldn't use matrix's library as numpy, it would have been too easy !
 
 As a bonus of this project I did a brute force attack of the message (2*2 matrix). Like this could be long I did a socket server/client to use many computer to duplicate computing power.
 
