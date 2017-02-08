@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+import sys
+from fractions import gcd
+
 def with_zero_bis(string, n):
     while len(string) % n != 0:
         string.append(0)
