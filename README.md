@@ -6,7 +6,7 @@ I did this project in the Mathematics module. The goal was to crypt a message wi
 
 As a bonus of this project I did a brute force attack of the message (2*2 matrix). Like this could be long I did a socket server/client to use many computer to duplicate computing power.
 
-So when we pitch this project for ths school, we invited 16 student to break the message ! :)
+So when we pitch this project for ths school, we invited 16 student to break a message ! :)
 
 ## How to use
 
