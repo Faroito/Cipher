@@ -18,4 +18,4 @@ To break a message :
    - server : ./cipher 2 "23884 11009 26220 11615 22842 9797 10807 10201"
    - client : ./client.py
 
-*Tips : "23884 11009 26220 11615 22842 9797 10807 10201" is a encrypt message
+*Tips : "23884 11009 26220 11615 22842 9797 10807 10201" is a encrypt message*
