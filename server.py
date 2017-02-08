@@ -7,7 +7,6 @@ from threading import Thread
 from SocketServer import ThreadingMixIn
 import struct
 
-TCP_IP = raw_input("Your IP ? : ")
 TCP_PORT_SEND = 60005
 BUFFER_SIZE = 1024
 
@@ -73,7 +72,6 @@ def server_lauch(msg_tmp):
     IP = raw_input("IP server ? : ")
     print 'TCP_IP =',IP
     print 'TCP_PORT_SEND =',TCP_PORT_SEND
-    print 'TCP_PORT_RECV =',TCP_PORT_RECEIVE
                     
     tcpsock_send = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     tcpsock_send.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
